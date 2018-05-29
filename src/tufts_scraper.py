@@ -41,7 +41,15 @@ def main():
     # tuftslink: [auteur, title, year, genre]
     target_texts = {
     # "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0110" : ['Euripides', 'Ion', '-413', 'Tragedy'],
-    "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0126" : ['Herodotus', 'The Histories', '-440', 'Historical'],
+    #"http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0126" : ['Herodotus', 'The Histories', '-440', 'Historical'],
+    #"http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0032" : ['Aristophanes', 'Frogs', '-405', 'Comedy']
+    #"http://www.perseus.tufts.edu/hopper/text?doc=Soph.%20OT" : ['Sophocles', 'OT', '-429', 'Tragedy']
+    #"http://www.perseus.tufts.edu/hopper/text?doc=Eur.%20Ba" : ['Euripides', 'Bacchae', '-406', 'Tragedy']
+    #"http://www.perseus.tufts.edu/hopper/text?doc=Aesch.%20Eum" : ['Aeschylus', 'Eumenides', '-458', 'Tragedy']
+    #"http://www.perseus.tufts.edu/hopper/text?doc=Eur.%20Hipp" : ['Euripides', 'Hippolytos', '-428', 'Tragedy']
+    #"http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0114" : ['Euripides', 'Medea', '-431', 'Tragedy']
+    #"http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0120" : ['Euripides', 'Rhesus', 'Unknown', 'Tragedy']
+    'http://www.perseus.tufts.edu/hopper/text?doc=Eur.%20El.' : ['Euripides', 'Elektra', '-420', 'Tragedy']
     }
     for link, metainfo in target_texts.items():
         print("scraping: {}".format(link))

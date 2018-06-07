@@ -7,9 +7,9 @@ Before the palace of Oedipus in Thebes.  Suppliants of all ages are seated on th
 Oedipus
 My children, latest-born wards of old Cadmus, why do you sit before me like this with wreathed branches of suppliants, while the city reeks with incense,
     [5]
-  rings with prayers for health and cries of woe?  I thought it unbefitting, my children, to hear these things from the mouths of others, and have come here myself, I, Oedipus renowned by all.  Tell me, then, venerable old man—since it is proper that you
+  rings with prayers for health and cries of woe?  I thought it unbefitting, my children, to hear these things from the mouths of others, and have come here myself, I, Oedipus renowned by all.  Tell me, then, venerable old manâ€”since it is proper that you
     [10]
-  speak for these—in what mood you sit here, one of fear or of desire?  Be sure that I will gladly give you all my help.  I would be hard-hearted indeed if I did not pity such suppliants as these.  
+  speak for theseâ€”in what mood you sit here, one of fear or of desire?  Be sure that I will gladly give you all my help.  I would be hard-hearted indeed if I did not pity such suppliants as these.  
 
 
 
@@ -18,7 +18,7 @@ My children, latest-born wards of old Cadmus, why do you sit before me like this
 Priest of Zeus
 Oedipus, ruler of my land, you see the age of those who sit
     [15]
-  on your altars—some, nestlings still too tender for flight, others, bowed with age, priests, like me of Zeus, and some, these here, the chosen youth.  The rest of the folk sit
+  on your altarsâ€”some, nestlings still too tender for flight, others, bowed with age, priests, like me of Zeus, and some, these here, the chosen youth.  The rest of the folk sit
     [20]
   with wreathed branches in the market-place, and before the shrines of Pallas, and where Ismenus gives answer by fire.  For the city, as you yourself see, is now sorely vexed, and can no longer lift her head from beneath the angry waves of death.
     [25]
@@ -113,7 +113,7 @@ Laius, my lord, was the leader of our land before you assumed control of this st
 Oedipus
 
     [105]
-  I know it well—by hearsay, for I never saw him.
+  I know it wellâ€”by hearsay, for I never saw him.
 
 Creon
 He was slain, and the god now bids us to take vengeance on his murderers, whoever they are.
@@ -169,13 +169,13 @@ Creon
 
 
 Oedipus
-I will start afresh, and once more make dark things plain.   Worthily has Phoebus Apollo—and worthily have you—bestowed this care on behalf of the dead.  And so, as is fitting, you will find me allied with you
+I will start afresh, and once more make dark things plain.   Worthily has Phoebus Apolloâ€”and worthily have youâ€”bestowed this care on behalf of the dead.  And so, as is fitting, you will find me allied with you
     [135]
   in seeking vengeance for this land, and for the god as well.  I will dispel this taint not on behalf of far-off friends, but for my own benefit.  For whoever killed Laius
     [140]
   might wish to take vengeance on me also with a hand as fierce.  Avenging Laius, therefore, I serve myself.  Come, my children, as quickly as possible rise from the altar-steps, and lift these suppliant boughs.  Let someone summon here Cadmus' people, warning them that I will leave nothing untried.
     [145]
-  For with the god's help our good fortune—or our ruin—will be made certain.
+  For with the god's help our good fortuneâ€”or our ruinâ€”will be made certain.
 
 Priest
 My children, let us rise.  What we came to seek, this man promises of his own accord.  And may Phoebus, who sent these oracles,
@@ -253,7 +253,7 @@ Oedipus
 Oedipus
 You pray.  And in answer to your prayer, if you will give a loyal reception to my words and minister to your own disease, you may hope to find help and relief from woes.  These words I will speak publicly, as one who was a stranger to the report,
     [220]
-  a stranger to the deed.  I would not go far on the trail if I were tracing it alone, without a clue.  But as it is—since it was only after the event that I was counted a Theban among Thebans—to you, Cadmeans all, I do thus proclaim:
+  a stranger to the deed.  I would not go far on the trail if I were tracing it alone, without a clue.  But as it isâ€”since it was only after the event that I was counted a Theban among Thebansâ€”to you, Cadmeans all, I do thus proclaim:
 Whoever knows
     [225]
   by whom Laius son of Labdacus was slain, I order him to declare all to me.  And if he is afraid, I order him to remove the danger of indictment from his path by denouncing himself: he will suffer no other punishment, but will only leave this land, unhurt.
@@ -274,9 +274,9 @@ Whoever knows
 
 For even if the matter had not been urged upon us by a god,
     [255]
-  it still would not have been fit that you should leave the guilt unpunished as it is, when one so noble—and he your king—had perished.  You should have searched it out.  But now, since I hold the powers which he once held,
+  it still would not have been fit that you should leave the guilt unpunished as it is, when one so nobleâ€”and he your kingâ€”had perished.  You should have searched it out.  But now, since I hold the powers which he once held,
     [260]
-  possessing his bed and the wife who bore his children, and since, had his hope of offspring not been unsuccessful, children born of one mother would have tied us with a common bond—as it was, fate swooped upon his head—I will uphold this cause, as though it were that of my own father,
+  possessing his bed and the wife who bore his children, and since, had his hope of offspring not been unsuccessful, children born of one mother would have tied us with a common bondâ€”as it was, fate swooped upon his headâ€”I will uphold this cause, as though it were that of my own father,
     [265]
   and will leave no stone unturned in my search for the one who shed the blood, for the honor of the son of Labdacus and of Polydorus and the elder Cadmus and Agenor of old.
 And for those who do not obey me, I pray that the gods
@@ -316,7 +316,7 @@ Not even this have I neglected.  On Creon's suggestion, I sent a man twice to br
 Chorus
 
     [290]
-  Indeed—his skill apart—the rumors are but faint and old.
+  Indeedâ€”his skill apartâ€”the rumors are but faint and old.
 
 Oedipus
 What are the rumors?  I am investigating every tale.
@@ -348,7 +348,7 @@ Oedipus
     [300]
   Teiresias, whose soul grasps all things, both that which may be told and that which is unspeakable, the Olympian secrets and the affairs of the earth, you feel, though you cannot see, what a huge plague haunts our state.  From which, great prophet, we find you to be our protector and only savior.
     [305]
-  Now, Phoebus—if indeed you have not already heard the news—sent answer to our question that the only way to rid ourselves of this pest that afflicts us is to discover the slayers of Laius, and then to slay them or banish them from our land.
+  Now, Phoebusâ€”if indeed you have not already heard the newsâ€”sent answer to our question that the only way to rid ourselves of this pest that afflicts us is to discover the slayers of Laius, and then to slay them or banish them from our land.
     [310]
   So do not begrudge us the voice of the birds or any other path of prophecy, but save yourself and your state, save me, save all that is defiled by the dead.  We are in your hands, and man's noblest task is to help others
     [315]
@@ -377,7 +377,7 @@ Oedipus
 For the love of the gods, do not turn away, if you have knowledge: all we suppliants implore you on our knees.
 
 Teiresias
-For all of you are without knowledge.  But never will I reveal my troubles—not to call them yours.  
+For all of you are without knowledge.  But never will I reveal my troublesâ€”not to call them yours.  
 
 
 
@@ -392,9 +392,9 @@ Teiresias
 I will grieve neither myself nor you.  Why do you ask these things in vain?  You will not learn the answers from me.
 
 Oedipus
-Will you not, basest of the base—
+Will you not, basest of the baseâ€”
     [335]
-  you would anger a stone—speak out?  can nothing touch you? Will you never make an end?
+  you would anger a stoneâ€”speak out?  can nothing touch you? Will you never make an end?
 
 Teiresias
 You blame my anger, but do not perceive your own: no, you blame me.
@@ -553,7 +553,7 @@ I did not know you would speak foolishly, for otherwise it would have been a lon
 Teiresias
 
     [435]
-  I was born like this—as you think, a fool, but in the opinion of the parents who bore you, quite sane.
+  I was born like thisâ€”as you think, a fool, but in the opinion of the parents who bore you, quite sane.
 
 Oedipus
 What parents? Wait.  What man is my father?
@@ -662,7 +662,7 @@ Creon
   Was the opinion given that my counsels had brought the seer to utter his falsehoods?
 
 Chorus
-Such things were said—I do not know with what meaning.
+Such things were saidâ€”I do not know with what meaning.
 
 Creon
 And was this charge laid against me with steady eyes and steady mind?
@@ -678,7 +678,7 @@ You, how did you get here? Are you so boldfaced that you have come to my house, 
     [535]
   the palpable thief of its crown?  Come, tell me, in the name of the gods, was it cowardice or folly which you saw in me and which led you to plot this thing?  Did you think that I would not notice this deed of yours creeping upon me by stealth, or that if I became aware of it I would not ward it off?
     [540]
-  Is your attempt not foolish, to seek the throne without followers or friends—a prize which followers and wealth must win?  
+  Is your attempt not foolish, to seek the throne without followers or friendsâ€”a prize which followers and wealth must win?  
 
 
 
@@ -696,7 +696,7 @@ Creon
 Now hear first how I will explain this very thing.
 
 Oedipus
-One thing—that you are not false—do not bother to explain to me.
+One thingâ€”that you are not falseâ€”do not bother to explain to me.
 
 Creon
 If you think that stubbornness
@@ -777,7 +777,7 @@ Oedipus
 Learn your fill.  I will never be found guilty of the bloodshed.
 
 Creon
-Say, then—have you married my sister?
+Say, thenâ€”have you married my sister?
 
 Oedipus
 The question allows no denial.
@@ -801,7 +801,7 @@ It is just in this that you are seen to be a false friend.
 
 
 Creon
-Not so, if you would reason with your heart as I do with mine.  Weigh this first—whether you think that anyone would
+Not so, if you would reason with your heart as I do with mine.  Weigh this firstâ€”whether you think that anyone would
     [585]
   choose to rule amid terrors rather than in unruffled peace, granted that he is to have the same powers.  Now I, for one, have by nature no yearning to rule as a king rather than to do kingly deeds, and neither does any man I know who has a sound mind.
     [590]
@@ -812,7 +812,7 @@ How, then, could royalty be sweeter to me to have than painless rule and influen
     [600]
   No mind will become false while it is wise.  No, I am no lover of such a policy, and if another put it into action, I could never bear to go along with him.  And, in proof of this, first go to Pytho, and ask whether I brought a true report of the oracle.
     [605]
-  Then next, if you have found that I have planned anything in concert with the soothsayer, take and slay me, by the sentence not of one mouth, but of two—by my own no less than yours.  But do not assume my guilt on unproven inference.  It is not just to judge bad men good at random,
+  Then next, if you have found that I have planned anything in concert with the soothsayer, take and slay me, by the sentence not of one mouth, but of twoâ€”by my own no less than yours.  But do not assume my guilt on unproven inference.  It is not just to judge bad men good at random,
     [610]
   or good men bad.  I think that casting off a true friend is for a man like casting away the life in his own bosom, which he most loves.  You will surely learn about these affairs in time, since time alone reveals a just man.
     [615]
@@ -884,7 +884,7 @@ Iocasta enters.
 Iocasta
 Misguided men, why have you raised
     [635]
-  such a foolish argument?  Are you not ashamed, while the land is so sick, to stir up troubles of your own? Come, go into the house—and you, Creon, go to yours—and stop making so much of a petty grief.
+  such a foolish argument?  Are you not ashamed, while the land is so sick, to stir up troubles of your own? Come, go into the houseâ€”and you, Creon, go to yoursâ€”and stop making so much of a petty grief.
 
 Creon
 Kinswoman, Oedipus, your husband,
@@ -976,9 +976,9 @@ Oedipus
 Do you see to what you have come, for all your noble intent, in seeking to slacken and blunt my zeal?
 
 Chorus
-King, I have said it more than once—
+King, I have said it more than onceâ€”
     [690]
-  be sure that I would have proved myself a madman, bankrupt in sane counsel, if I forsook you—you, who gave a true course to my beloved country when it was
+  be sure that I would have proved myself a madman, bankrupt in sane counsel, if I forsook youâ€”you, who gave a true course to my beloved country when it was
     [695]
   distraught with troubles, and who now are likely to prove our prospering guide.
 Iocasta
@@ -1010,9 +1010,9 @@ Oedipus
 Iocasta
 Then absolve yourself of the things about which you are speaking.  Listen to me, and take comfort in learning that nothing of mortal birth shares in the science of the seer.
     [710]
-  I will give you a pithy proof of this.  An oracle came to Laius once—I will not say from Phoebus himself, but from his ministers—saying that he would suffer his doom at the hands of the child to be born to him and me.
+  I will give you a pithy proof of this.  An oracle came to Laius onceâ€”I will not say from Phoebus himself, but from his ministersâ€”saying that he would suffer his doom at the hands of the child to be born to him and me.
     [715]
-  And Laius—as, at least, the rumor goes—was murdered one day by foreign robbers at a place where the three highways meet.  And the child's birth was not yet three days past, when Laius pinned his ankles together and had him thrown, by others' hands, on a remote mountain.
+  And Laiusâ€”as, at least, the rumor goesâ€”was murdered one day by foreign robbers at a place where the three highways meet.  And the child's birth was not yet three days past, when Laius pinned his ankles together and had him thrown, by others' hands, on a remote mountain.
     [720]
   So, in that case, Apollo did not bring it to pass that the child should become the slayer of his father, or that Laius should suffer that which he feared, death at the hands of his child: thus the messages of the seer's art had mapped out the future. Pay them no regard.  Whatever necessary event
     [725]
@@ -1029,7 +1029,7 @@ Iocasta
 What anxiety has startled you, that you say this?
 
 Oedipus
-I thought that I heard this from you—that Laius
+I thought that I heard this from youâ€”that Laius
     [730]
   was slain where the three roads meet.
 
@@ -1062,7 +1062,7 @@ Oedipus
   Do not ask me yet.  Tell me rather what stature Laius had, and how ripe his manhood was.
 
 Iocasta
-He was tall—the silver just lightly strewn among his hair—and his form was not greatly unlike your own.
+He was tallâ€”the silver just lightly strewn among his hairâ€”and his form was not greatly unlike your own.
 
 Oedipus
 Unhappy that I am!  I think that I have
@@ -1088,7 +1088,7 @@ Oedipus
   Did he go with a small force, or like a chieftain, with many armed followers?
 
 Iocasta
-Five they were in all—a herald among them—and there was one carriage which bore Laius.
+Five they were in allâ€”a herald among themâ€”and there was one carriage which bore Laius.
 
 Oedipus
 
@@ -1151,7 +1151,7 @@ It will not be kept from you, now that my forebodings have advanced so far.  To 
     [810]
   Yet he was paid back with interest: with one swift blow from the staff in this hand he rolled right out of the carriage onto his back.  I slew every one of them.  But if this stranger had any tie of kinship to Laius,
     [815]
-  who is now more wretched than this man before you?  What mortal could be proved more hateful to the gods?  No stranger, no citizen, is allowed to receive him at home, it is unlawful for anyone to accost him, and all must push him from their homes.  And this—this curse—
+  who is now more wretched than this man before you?  What mortal could be proved more hateful to the gods?  No stranger, no citizen, is allowed to receive him at home, it is unlawful for anyone to accost him, and all must push him from their homes.  And thisâ€”this curseâ€”
     [820]
   was laid on me by no other mouth than my own.  And I pollute the bed of the slain man with the hands by which he perished.  Am I now vile?  Oh, am I not utterly unclean, seeing that I must be banished, and in banishment neither see my own people,
     [825]
@@ -1245,7 +1245,7 @@ ChorusNo longer will I go reverently to the earth's central and inviolate shrine
     [900]
   if these oracles do not fit the outcome, so that all mortals shall point at them with their fingers.
     [905]
-  No, King—if this you are rightly called—Zeus all ruling, may it not escape you and your deathless power!  The old prophecies concerning Laius are fading; already men give them no value, and nowhere is Apollo glorified with honors;
+  No, Kingâ€”if this you are rightly calledâ€”Zeus all ruling, may it not escape you and your deathless power!  The old prophecies concerning Laius are fading; already men give them no value, and nowhere is Apollo glorified with honors;
     [910]
   the worship of the gods is perishing.  
 
@@ -1256,7 +1256,7 @@ ChorusNo longer will I go reverently to the earth's central and inviolate shrine
 Iocasta
 Princes of the land, I am planning to visit the shrines of the gods, with this wreathed branch and these gifts of incense in my hands.  For Oedipus excites his soul excessively with all sorts of grief,
     [915]
-  as he does not judge the new things from the old, like a man of sense, but is under the control of the speaker, if he speaks of frightful things.  Since, then, I can do no good by counsel, to you, Lycean Apollo—for you are nearest—
+  as he does not judge the new things from the old, like a man of sense, but is under the control of the speaker, if he speaks of frightful things.  Since, then, I can do no good by counsel, to you, Lycean Apolloâ€”for you are nearestâ€”
     [920]
   I have come as a suppliant with these symbols of prayer, that you may find us some escape from uncleanliness.  For now we are all afraid, like those who see fear in the helmsman of their ship.
 Enter a messenger.
@@ -1357,7 +1357,7 @@ Yes, and of the long years that he had lived.
 Oedipus
 Alas, alas! Why indeed, my wife, should one look to the
     [965]
-  hearth of the Pythian seer, or to the birds that scream above our heads, who declared that I was doomed to slay my father?  But he is dead, and lies beneath the earth, and here I am, not having put my hand to any spear—unless, perhaps, he died out of longing for me:
+  hearth of the Pythian seer, or to the birds that scream above our heads, who declared that I was doomed to slay my father?  But he is dead, and lies beneath the earth, and here I am, not having put my hand to any spearâ€”unless, perhaps, he died out of longing for me:
     [970]
   thus, indeed, I would be the cause of his death. But as the oracles stand, at least, Polybus has swept them with him to his rest in Hades.  They are worth nothing.
 
@@ -1415,7 +1415,7 @@ Proper, or improper, for another to know?
 Oedipus
 Proper, surely.  Loxias once said that I was
     [995]
-  doomed to marry my own mother, and to shed with my own hands my father's blood.  For which reasons I long shirked my home in Corinth—with a happy outcome, to be sure, but still it is sweet to see the face of one's parents.  
+  doomed to marry my own mother, and to shed with my own hands my father's blood.  For which reasons I long shirked my home in Corinthâ€”with a happy outcome, to be sure, but still it is sweet to see the face of one's parents.  
 
 
 
@@ -1517,7 +1517,7 @@ Messenger
 I was in charge of mountain flocks.
 
 Oedipus
-What, you were a shepherd—a vagrant hireling?
+What, you were a shepherdâ€”a vagrant hireling?
 
 Messenger
 
@@ -1607,7 +1607,7 @@ Iocasta
   For the gods' sake, if you have any care for your own life, do not continue this search!  My anguish is enough.
 
 Oedipus
-Be of good courage.  Even if I should be found the son of a servile mother—a slave by three descents—you will not be proven baseborn.
+Be of good courage.  Even if I should be found the son of a servile motherâ€”a slave by three descentsâ€”you will not be proven baseborn.
 
 Iocasta
 Hear me, I implore you: do not do this.
@@ -1618,7 +1618,7 @@ Oedipus
   I will not hear of not discovering the whole truth.
 
 Iocasta
-Yet I wish you well—I counsel you for the best.
+Yet I wish you wellâ€”I counsel you for the best.
 
 Oedipus
 These best counsels, then, vex my patience.
@@ -1632,7 +1632,7 @@ Go, some one, fetch me the herdsman.
   Leave this woman to glory in her princely stock.
 
 Iocasta
-Alas, alas, miserable man—that word alone can I say to you—and no other word ever again.She rushes into the palace. 
+Alas, alas, miserable manâ€”that word alone can I say to youâ€”and no other word ever again.She rushes into the palace. 
 
 Chorus
 Why has this woman gone, Oedipus, rushing off in wild grief?  I fear
@@ -1640,7 +1640,7 @@ Why has this woman gone, Oedipus, rushing off in wild grief?  I fear
   a storm of sorrow will soon break forth from this silence.
 
 Oedipus
-Break forth what will!  Be my race ever so lowly, I crave to learn it.  That woman perhaps—for she is proud with more than a woman's pride—feels ashamed of my lowly origin.  But I, who hold myself son of Fortune
+Break forth what will!  Be my race ever so lowly, I crave to learn it.  That woman perhapsâ€”for she is proud with more than a woman's prideâ€”feels ashamed of my lowly origin.  But I, who hold myself son of Fortune
     [1080]
   that gives good, will not be dishonored.  She is the mother from whom I spring, and the months, my kinsmen, have marked me sometimes lowly, sometimes great.  Such being my heritage, never more can I prove
     [1085]
@@ -1653,7 +1653,7 @@ Break forth what will!  Be my race ever so lowly, I crave to learn it.  That wom
 Chorus
 If I am a seer or wise of heart,
     [1090]
-  Cithaeron, you will not fail—by heaven, you will not—to know at tomorrow's full moon that Oedipus honors you as native to him, as his nurse, and his mother, and that you are celebrated in our dance and song,
+  Cithaeron, you will not failâ€”by heaven, you will notâ€”to know at tomorrow's full moon that Oedipus honors you as native to him, as his nurse, and his mother, and that you are celebrated in our dance and song,
     [1095]
   because you are well-pleasing to our prince.  O Phoebus to whom we cry, may these things find favor in your sight!  
 
@@ -1679,7 +1679,7 @@ Oedipus
   But perhaps you have an advantage in knowledge over me, if you have seen the herdsman before.
 
 Chorus
-Yes, I know him, be sure.  He was in the service of Laius—trusty as any  shepherd.
+Yes, I know him, be sure.  He was in the service of Laiusâ€”trusty as any  shepherd.
 The herdsman is brought in.
 
 Oedipus
@@ -1691,10 +1691,10 @@ Messenger
   He is, the one you are looking at.
 
 Oedipus
-You, old man—look this way and answer all that I ask—were you once in the service of Laius?
+You, old manâ€”look this way and answer all that I askâ€”were you once in the service of Laius?
 
 Servant
-I was—not a bought slave, but reared in his house.
+I wasâ€”not a bought slave, but reared in his house.
 
 Oedipus
 Employed in what labor, or what way of life?
@@ -1773,7 +1773,7 @@ Servant
 No, in the name of the gods, do not mistreat an old man.
 
 Oedipus
-Someone, quick—tie his hands him this instant!
+Someone, quickâ€”tie his hands him this instant!
 
 Servant
 
@@ -1873,7 +1873,7 @@ Out of pity, master, thinking that he would carry him to another land, from wher
   For if you are what this man says, be certain that you were born ill-fated.
 
 Oedipus
-Oh, oh!  All brought to pass, all true.  Light, may I now look on you for the last time—I who have been found to be accursed in birth,
+Oh, oh!  All brought to pass, all true.  Light, may I now look on you for the last timeâ€”I who have been found to be accursed in birth,
     [1185]
   accursed in wedlock, accursed in the shedding of blood.He rushes into the palace.   
 
@@ -1884,7 +1884,7 @@ Oh, oh!  All brought to pass, all true.  Light, may I now look on you for the la
 Chorus
 Alas, generations of mortals, how mere a shadow I count your life!  Where, where is the mortal who
     [1190]
-  attains a happiness which is more than apparent and doomed to fall away to nothing?  Your fate warns me—yours, unhappy Oedipus—to call no
+  attains a happiness which is more than apparent and doomed to fall away to nothing?  Your fate warns meâ€”yours, unhappy Oedipusâ€”to call no
     [1195]
   earthly creature blessed.  
 
@@ -1959,7 +1959,7 @@ When, frantic, she passed within the vestibule, she rushed straight towards her 
     [1265]
   And when he saw her, with a dread deep cry he released the halter by which she hung.  And when the hapless woman was stretched out on the ground, then the sequel was horrible to see:  for he tore from her raiment the golden brooches with which she had decorated herself,
     [1270]
-  and lifting them struck his own eye-balls, uttering words like these:  No longer will you behold such horrors as I was suffering and performing! Long enough have you looked on those whom you ought never to have seen, having failed in the knowledge of those whom I yearned to know—henceforth you shall be dark!
+  and lifting them struck his own eye-balls, uttering words like these:  No longer will you behold such horrors as I was suffering and performing! Long enough have you looked on those whom you ought never to have seen, having failed in the knowledge of those whom I yearned to knowâ€”henceforth you shall be dark!
     [1275]
   With such a dire refrain, he struck his eyes with raised hand not once but often.  At each blow the bloody eye-balls bedewed his beard, and sent forth not sluggish drops of gore, but all at once a dark shower of blood came down like hail.
     [1280]
@@ -1973,7 +1973,7 @@ Chorus
 And does the sufferer have any respite from pain now?
 
 Second Messenger
-He cries for some one to unbar the gates and show to all the Cadmeans his father's slayer, his mother's—the words must not pass my lips—
+He cries for some one to unbar the gates and show to all the Cadmeans his father's slayer, his mother'sâ€”the words must not pass my lipsâ€”
     [1290]
   in order to banish himself from the land and not to put the house under his own curse by waiting here.  And yet he lacks strength, and one to guide his steps, for the anguish is more than he can bear.  He will soon show this to you: look, the bars of the gates are withdrawn,
     [1295]
@@ -2018,7 +2018,7 @@ No wonder that amidst these woes
 Oedipus
 Ah, friend, you still are steadfast in your care for me, and still have patience to tend to the blind man! Ah, me!
     [1325]
-  Your presence is not hidden from me—no, blind though I am, nevertheless I know your voice full well.
+  Your presence is not hidden from meâ€”no, blind though I am, nevertheless I know your voice full well.
 Chorus
 Man of dread deeds, how could you quench your vision in this way?  What divinity urged you on?  
 
@@ -2048,7 +2048,7 @@ Wretched alike for your fortune and for your understanding of it, would that I h
 
 
 Oedipus
-Perish the man, whoever he was, who freed me in the past years from the cruel shackle on my feet—a thankless deed!  Had I died then,
+Perish the man, whoever he was, who freed me in the past years from the cruel shackle on my feetâ€”a thankless deed!  Had I died then,
     [1355]
   I would not have been so sore a grief to my friends and to my own soul.
 Chorus
@@ -2072,21 +2072,21 @@ Do not tell me that things have not been best done in this way:
     [1370]
   give me counsel no more.  If I had sight, I know not with what eyes I could even have looked on my father, when I came to the house of Hades, or on my miserable mother, since against both I have sinned such sins as hanging myself could not punish.
     [1375]
-  But do you think that the sight of children, born as mine were, was lovely for me to look upon? No, no, never lovely to my eyes!  No, neither was this town with its towering walls, nor the sacred statues of the gods, since I, thrice wretched that I am—
+  But do you think that the sight of children, born as mine were, was lovely for me to look upon? No, no, never lovely to my eyes!  No, neither was this town with its towering walls, nor the sacred statues of the gods, since I, thrice wretched that I amâ€”
     [1380]
-  I, noblest of the sons of Thebes—have doomed myself to know them no more by commanding that all should reject the impious one, the one whom the gods have revealed as unholy, a member of Laius' own race!  After bearing such a stain upon myself,
+  I, noblest of the sons of Thebesâ€”have doomed myself to know them no more by commanding that all should reject the impious one, the one whom the gods have revealed as unholy, a member of Laius' own race!  After bearing such a stain upon myself,
     [1385]
   was I to look with steady eyes on this folk?  No indeed: were there a way to choke the source of hearing, I would not have hesitated to make a fast prison of this wretched frame, so that I should have known neither sight nor sound.
     [1390]
   It is sweet for our thought to dwell beyond the sphere of grief.  Alas, Cithaeron, why did you provide a shelter for me?  When I was given to you, why did you not slay me straightway, that I might never reveal my origin to men.  Ah, Polybus, ah, Corinth, and you that were called the ancient house of my father,
     [1395]
-  how fair-seeming was I, your nurseling, and what evils were festering underneath!  Now I am found to be evil and of evil birth.  Oh you three roads, and you secret glen, you, thicket, and narrow way where three paths met—
+  how fair-seeming was I, your nurseling, and what evils were festering underneath!  Now I am found to be evil and of evil birth.  Oh you three roads, and you secret glen, you, thicket, and narrow way where three paths metâ€”
     [1400]
-  you who drank my father's blood from my own hands—do you remember, perhaps, what deeds I have performed in your sight, and then what fresh deeds I went on to do when I came here?  Oh marriage rites, you gave me birth, and when you had brought me forth,
+  you who drank my father's blood from my own handsâ€”do you remember, perhaps, what deeds I have performed in your sight, and then what fresh deeds I went on to do when I came here?  Oh marriage rites, you gave me birth, and when you had brought me forth,
     [1405]
-  you again bore children to your child, you created an incestuous kinship of fathers, brothers, sons, brides, wives, and mothers—all the foulest deeds that are wrought among men!  But it is improper to mention what it is improper to do—
+  you again bore children to your child, you created an incestuous kinship of fathers, brothers, sons, brides, wives, and mothersâ€”all the foulest deeds that are wrought among men!  But it is improper to mention what it is improper to doâ€”
     [1410]
-  hurry, for the love of the gods, hide me somewhere beyond the land, or slay me, or cast me into the sea, where you will never behold me any longer!  Approach—deign to lay your hands on a wretched man—listen and fear not:  my plague can rest
+  hurry, for the love of the gods, hide me somewhere beyond the land, or slay me, or cast me into the sea, where you will never behold me any longer!  Approachâ€”deign to lay your hands on a wretched manâ€”listen and fear not:  my plague can rest
     [1415]
   on no other mortal.  
 
@@ -2113,7 +2113,7 @@ But you, if you no longer respect the children of men,
   kinfolk alone should see and hear a kinsman's woes.
 
 Oedipus
-For the gods' love—since you have done a gentle violence to my prediction and come in a spirit so noble to me, a man most vile—grant me a favor: I will speak for your own good, not mine.
+For the gods' loveâ€”since you have done a gentle violence to my prediction and come in a spirit so noble to me, a man most vileâ€”grant me a favor: I will speak for your own good, not mine.
 
 Creon
 
@@ -2129,7 +2129,7 @@ This I could have done, to be sure, except I craved first to learn from the god 
 Oedipus
 
     [1440]
-  But his pronouncement has been set forth in full—to let me perish, the parricide, unholy one that I am.
+  But his pronouncement has been set forth in fullâ€”to let me perish, the parricide, unholy one that I am.
 
 Creon
 Thus it was said.  But since we have come to such a pass, it is better to learn clearly what should be done.
@@ -2147,15 +2147,15 @@ Creon
 
 
 Oedipus
-Yes.  And on you I lay this charge, to you I make this entreaty:  give to the woman within such burial as you wish—you will properly render the last rites to your own.  But never let this city of my father be condemned
+Yes.  And on you I lay this charge, to you I make this entreaty:  give to the woman within such burial as you wishâ€”you will properly render the last rites to your own.  But never let this city of my father be condemned
     [1450]
   to have me dwelling within, as long as I live.  No, allow me to live in the hills, where Cithaeron, famed as mine, sits, which my mother and father, while they lived, fixed as my appointed tomb, so that I may die according to the decree of those who sought to slay me.
     [1455]
   And yet I know this much, that neither sickness nor anything else can destroy me; for I would never have been snatched from death, except in order to suffer some strange doom.  But let my fate go where it will.  Regarding my children, Creon, I beg you to take no care of my sons:
     [1460]
-  they are men, so that they will never lack the means to live wherever they should be.  My two girls, poor hapless ones—who never knew my table spread separately, or lacked their father's presence, but always had a share of all that
+  they are men, so that they will never lack the means to live wherever they should be.  My two girls, poor hapless onesâ€”who never knew my table spread separately, or lacked their father's presence, but always had a share of all that
     [1465]
-  reached my hands—I implore you to take care of them.  And, if you can, allow me to touch them with my hands, and to indulge my grief.  Grant it, prince, grant it, noble heart.  Ah, if I could but once touch them with my hands, I would think that I had them
+  reached my handsâ€”I implore you to take care of them.  And, if you can, allow me to touch them with my hands, and to indulge my grief.  Grant it, prince, grant it, noble heart.  Ah, if I could but once touch them with my hands, I would think that I had them
     [1470]
   just as when I had sight.
 Creon's Attendants lead in the children, Antigone and Ismene.
@@ -2164,7 +2164,7 @@ What is this?  Oh, gods, can it be my loved ones that I hear sobbing, can Creon 
   Am I right?
 
 Creon
-You are.  I have brought this about, for I knew the joy which you have long had from them—the joy you now have.  
+You are.  I have brought this about, for I knew the joy which you have long had from themâ€”the joy you now have.  
 
 
 
@@ -2173,7 +2173,7 @@ You are.  I have brought this about, for I knew the joy which you have long had 
 Oedipus
 Bless you, and for this errand may the god prove a kinder guardian to you than he has to me.
     [1480]
-  My children, where are you?  Come, here, here to the hands of the one whose mother was your own, the hands that have made your father's once bright eyes to be such orbs as these—his, who seeing nothing, knowing nothing,
+  My children, where are you?  Come, here, here to the hands of the one whose mother was your own, the hands that have made your father's once bright eyes to be such orbs as theseâ€”his, who seeing nothing, knowing nothing,
     [1485]
   became your father by her from whom he was born!  For you also do I weep, though I cannot see you, when I think of the bitter life that men will make you live in days to come.   To what company of the citizens will you go, to what festival,
     [1490]
@@ -2181,7 +2181,7 @@ Bless you, and for this errand may the god prove a kinder guardian to you than h
     [1495]
   that will certainly be baneful to my offspring and yours?  What misery is lacking?  Your father killed his own father, and bore you from the source of his own being!
     [1500]
-  Such are the taunts that will be cast at you.  And who then will wed you?  The man does not live, no, it cannot be, my children, but you will wither in barren maidenhood.  Son of Menoeceus, hear me: since you are the only father left to them—we, their parents, are both gone—
+  Such are the taunts that will be cast at you.  And who then will wed you?  The man does not live, no, it cannot be, my children, but you will wither in barren maidenhood.  Son of Menoeceus, hear me: since you are the only father left to themâ€”we, their parents, are both goneâ€”
     [1505]
   do not allow them to wander poor and unwed, for they are your own kin, nor abase them to the level of my woes.  Pity them, seeing them deprived of everything but you at such an age.
     [1510]

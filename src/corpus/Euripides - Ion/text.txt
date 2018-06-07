@@ -10,17 +10,17 @@ Atlas, who wears away heaven, the ancient home of the gods, on his bronze should
    I have come to Delphi, this land where Phoebus from his central throne chants to mortals, always declaring the present and the future.
 For Hellas has a famous city, which received its name from Pallas of the golden lance; 
     [10]
-   here Apollo forced a union on Creusa, the child of Erechtheus, where the rocks, turned to the north beneath the hill of Pallas' Athenian land, are called Macrai by the lords of Attica. Unknown to her father ósuch was the pleasure of the godó 
+   here Apollo forced a union on Creusa, the child of Erechtheus, where the rocks, turned to the north beneath the hill of Pallas' Athenian land, are called Macrai by the lords of Attica. Unknown to her father ‚Äîsuch was the pleasure of the god‚Äî 
     [15]
    she bore the weight in her womb. When the time came, Creusa gave birth in the house to a child, and brought the infant to the same cave where the god had bedded her, and there exposed him to die in the round circle of a hollow cradle, 
     [20]
    observant of the customs of her ancestors, and of Erichthonius, the earth-born. For the daughter of Zeus set beside him two serpents to guard his body, and gave him in charge to the daughters of Aglauros; 
     [25]
-   from which the Erechthidae have a custom to rear their children in gold serpents. Ornaments which the girl had she hung around her son, and left him to die. And Phoebus, as my brother, asked me this: ìO brother, go to the native-born people 
+   from which the Erechthidae have a custom to rear their children in gold serpents. Ornaments which the girl had she hung around her son, and left him to die. And Phoebus, as my brother, asked me this: ‚ÄúO brother, go to the native-born people 
     [30]
    of glorious Athens, for you know the city of the goddess; take the new-born baby from the hollow rock, with his cradle and baby-clothes; bring him to my shrine at Delphi, and place him at the very entrance of my temple; 
     [35]
-   The restóknow that the child is mineówill be my care.î To gratify my brother Loxias I took up the woven basket and brought it here, and placed the boy at the base of this temple, 
+   The rest‚Äîknow that the child is mine‚Äîwill be my care.‚Äù To gratify my brother Loxias I took up the woven basket and brought it here, and placed the boy at the base of this temple, 
     [40]
    opening up the wreathed cradle, so that the infant might be seen.
 
@@ -31,7 +31,7 @@ For Hellas has a famous city, which received its name from Pallas of the golden 
 
 It happened that, as the sun rose, the priestess entered the god's prophetic shrine; she saw the baby and marvelled that some girl of Delphi had dared 
     [45]
-   to cast her secret child into the house of the god; she was eager to take it away from the shrine; but she let the harsh intent gave way to pityóand the god worked with her, so the child might not be hurled out of his houseóshe took up the child and raised it. 
+   to cast her secret child into the house of the god; she was eager to take it away from the shrine; but she let the harsh intent gave way to pity‚Äîand the god worked with her, so the child might not be hurled out of his house‚Äîshe took up the child and raised it. 
     [50]
    She did not know that Phoebus was the father, nor who the mother was, nor did the child know about his parents.
 When young he played round the shrine, and was nourished there; but when he grew to manhood, the Delphians made him guardian of the god's treasures, 
@@ -138,7 +138,7 @@ Not only in our holy Athens
 Chorus
 I see it. And another near him, 
     [195]
-   who is raising a fiery torchó is he the one whose story is told when I am at my loom, the warrior Iolaus, 
+   who is raising a fiery torch‚Äî is he the one whose story is told when I am at my loom, the warrior Iolaus, 
     [200]
    who joins with the son of Zeus in bearing his labors?
 And look at this one sitting on a winged horse; he is killing the mighty fire-breathing creature that has three bodies.  
@@ -243,7 +243,7 @@ I am fortunate so far, stranger, and no further.
 Ion
 
     [265]
-   By the gods, truly, as the tale goes among mortalsó
+   By the gods, truly, as the tale goes among mortals‚Äî
 
 Creusa
 What are you asking about, stranger, that you want to know?
@@ -263,7 +263,7 @@ Creusa
   Into her virgin hands; she was not his mother.
 
 Ion
-And gave him, as paintings usually showó
+And gave him, as paintings usually show‚Äî
 
 Creusa
 To the daughters of Kekrops to keep, unseen.
@@ -281,7 +281,7 @@ And so they died, making the promontory of the rock bloody.
 Ion
 
     [275]
-   I see. Well, what about this? Is it true, or a vain rumoró
+   I see. Well, what about this? Is it true, or a vain rumor‚Äî
 
 Creusa
 What are you asking? For I am at leisure.
@@ -344,7 +344,7 @@ Ion
 And how as a stranger did he have you, a citizen?
 
 Creusa
-There is a city, Euboea, which is a neighbor to Athensó
+There is a city, Euboea, which is a neighbor to Athens‚Äî
 
 Ion
 
@@ -433,7 +433,7 @@ Creusa
 And which Delphian woman nourished you with milk?
 
 Ion
-I never knew the breast. The one who brought me upó
+I never knew the breast. The one who brought me up‚Äî
 
 Creusa
 
@@ -492,7 +492,7 @@ Ion
    Tell me; I shall be your sponsor for the rest.
 
 Creusa
-Then hear the story.óbut Shame prevents me.
+Then hear the story.‚Äîbut Shame prevents me.
 
 Ion
 Then you will accomplish nothing; that goddess is an idle one.
@@ -662,7 +662,7 @@ I am, outside; within, it belongs to others
 Xuthus
 Good; I have everything I need. I will go inside; for, as I hear, the victim has been sacrificed for foreigners 
     [420]
-   in common before the shrine; I want, on this dayófor it is propitiousóto receive the answer of the god. But you, lady, take these laurel twigs around the altars and pray to the gods for me to bring from Apollo's temple oracles that give hope of children.Xuthus, after giving the laurel boughs to Creusa, enters the temple. 
+   in common before the shrine; I want, on this day‚Äîfor it is propitious‚Äîto receive the answer of the god. But you, lady, take these laurel twigs around the altars and pray to the gods for me to bring from Apollo's temple oracles that give hope of children.Xuthus, after giving the laurel boughs to Creusa, enters the temple. 
 
 Creusa
 
@@ -676,7 +676,7 @@ Why is the stranger always making abusive riddles,
     [435]
    and pour water from golden pitchers into the sacred vessels. But I must give Apollo some advice; what is he about? Does he betray virgins by forced rape? Does he secretly breed children and leave them to die? Do not do so; but, since you have power, 
     [440]
-   seek after virtue. For if any mortal is bad, the gods punish him. How then is it just for you to write laws for mortals, and yourselves incur a charge of lawlessness? Ifófor it is not so, but I will handle the subjectó 
+   seek after virtue. For if any mortal is bad, the gods punish him. How then is it just for you to write laws for mortals, and yourselves incur a charge of lawlessness? If‚Äîfor it is not so, but I will handle the subject‚Äî 
     [445]
    you pay the penalty to mortals for rape, you and Poseidon, and Zeus, who rules heaven, you will empty your temples paying for your crimes. For you do wrong to go eagerly after your pleasures without thinking. No longer is it right 
     [450]
@@ -771,7 +771,7 @@ Xuthus
 
     [525]
    Why do you try to escape from me? 
-When you have met your own dearestó
+When you have met your own dearest‚Äî
 
 Ion
 I do not like to teach rude and maddened strangers.
@@ -815,7 +815,7 @@ Ion
 What were the words of Phoebus?
 
 Xuthus
-That the one who met meó
+That the one who met me‚Äî
 
 Ion
 
@@ -823,7 +823,7 @@ Ion
    What meeting?
 
 Xuthus
-As I came out of the templeó
+As I came out of the temple‚Äî
 
 Ion
 What would be the result?
@@ -906,7 +906,7 @@ Xuthus
 The time agrees.
 
 Ion
-Then how did I arrive hereó
+Then how did I arrive here‚Äî
 
 Xuthus
 I cannot account for that.
@@ -929,7 +929,7 @@ Ion
 You stayed with one of the public hosts?
 
 Xuthus
-He, with the girls of Delphió
+He, with the girls of Delphi‚Äî
 
 Ion
 Brought you into their company, or what are you saying?
@@ -970,7 +970,7 @@ Xuthus
 Now you are in your right mind.
 
 Ion
-And what else do I wantó
+And what else do I want‚Äî
 
 Xuthus
 Now you are seeing what you ought to see.
@@ -996,7 +996,7 @@ Xuthus
 What a sweet word to hear!.
 
 Ion
-This present dayó
+This present day‚Äî
 
 Xuthus
 Has made me happy.
@@ -1056,7 +1056,7 @@ Listen to the blessings I have here, father; first, the dearest to mortals, leis
     [635]
     moderate trouble; no worthless creature has struck me out of the way; this is not to be borne, to give way and yield to road to the base. In prayers to the gods or . . . of men, I would serve those who rejoiced, not those who lamented. 
     [640]
-   And some I would send away, while others would come as guests, so that I was always a pleasant novelty among the new arrivals. Andówhat men ought to wish for, even if they are unwillingócustom and my nature made me righteous before the god. With these things in mind, 
+   And some I would send away, while others would come as guests, so that I was always a pleasant novelty among the new arrivals. And‚Äîwhat men ought to wish for, even if they are unwilling‚Äîcustom and my nature made me righteous before the god. With these things in mind, 
     [645]
    I think it better here than there, father. Let me live here; for the pleasure is equal, to rejoice in greatness or to have delight with little.
 
@@ -1107,7 +1107,7 @@ Chorus
     [695]
    My friends, shall we cry out these things clearly to the ears of our mistress? Her husband, with whom she shared all her hopes, unhappy woman . . . Now her fortunes are ruined, while he is successful. 
     [700]
-   She has fallen into a gray old age, but her husband does not honor his friends. Wretched one, who came to her home an outsider, to great prosperity, and did not put her on a level with his fortunesómay he perish, perish!ódeceiving my mistress. 
+   She has fallen into a gray old age, but her husband does not honor his friends. Wretched one, who came to her home an outsider, to great prosperity, and did not put her on a level with his fortunes‚Äîmay he perish, perish!‚Äîdeceiving my mistress. 
     [705]
    And may he not succeed when he offers to the gods the brightly burning sacrifice on the fire; but he will know my mind, how friendly I am 
     [710]
@@ -1120,7 +1120,7 @@ Chorus
 Chorus
 O ridge of Parnassus, 
     [715]
-   holding the high rock and seat of heaven, where Bacchus with flaming torches leaps lightly with the bacchantes that roam by nightó may the boy never come to my city, 
+   holding the high rock and seat of heaven, where Bacchus with flaming torches leaps lightly with the bacchantes that roam by night‚Äî may the boy never come to my city, 
     [720]
    may he leave his young life and die! For the mourning city would have for excuse a foreign invasion .  .  .   the former king, lord Erechtheus, gathered his forces.  
 
@@ -1134,7 +1134,7 @@ Creusa
     [725]
    Old tutor of my father Erechtheus, while he was alive, come up to the oracular seat, so that you may rejoice with me, if lord Loxias has spoken any oracle on begetting of children. 
     [730]
-   For it is sweet to have good fortune in the presence of friends; if things should go badlyómay they notóit is pleasant to look in the face of someone kind. Though I am your mistress, I tend you as a father, as once you tended my father.
+   For it is sweet to have good fortune in the presence of friends; if things should go badly‚Äîmay they not‚Äîit is pleasant to look in the face of someone kind. Though I am your mistress, I tend you as a father, as once you tended my father.
 
 Tutor
 
@@ -1233,7 +1233,7 @@ But the mourning is already here.
 Tutor
 
     [770]
-   Until we learnó
+   Until we learn‚Äî
 
 Creusa
 sung
@@ -1305,7 +1305,7 @@ Tutor
 And who was his mother?
 
 Chorus Leader
-I can not say. Her husband is goneóso that you may know everything from me, old manó 
+I can not say. Her husband is gone‚Äîso that you may know everything from me, old man‚Äî 
     [805]
    to the holy tent to celebrate a feast and birth-rites for his son, in secret from her, and to give a public banquet to his new son.  
 
@@ -1324,7 +1324,7 @@ Lady, we are betrayed, for I am afflicted with you, by your husband, and by tric
     [825]
    And the god has not deceived you; your husband deceived you long ago, rearing his son, and wove such plots; if convicted, he might ascribe it to the god . . . he was about to invest him with the rule of your land. 
     [830]
-   And he fashioned this new name at his leisure, Ionóbecause he met him coming out, indeed!
+   And he fashioned this new name at his leisure, Ion‚Äîbecause he met him coming out, indeed!
 
 Chorus Leader
 Alas, how I always hate wicked men, who put together plans of injustice and then adorn them with tricks. I would rather have as a friend a good man who is ordinary 
@@ -1645,7 +1645,7 @@ Tutor
    The one whom the earth brought forth, first of your race?
 
 Creusa
-To him while an infant Pallas gaveó
+To him while an infant Pallas gave‚Äî
 
 Tutor
 What did she give? Your speech has such delays!
@@ -1679,7 +1679,7 @@ Tutor
    How is this double gift of the goddess accomplished?
 
 Creusa
-This one, which dripped from the hollow vein, at the slaughteró
+This one, which dripped from the hollow vein, at the slaughter‚Äî
 
 Tutor
 What is its use? What can it do?
@@ -1743,7 +1743,7 @@ Do you know what you must do? Take from my hand
     [1030]
    this golden bracelet from Athena, an ancient work, and go where my husband is secretly preparing the sacrifice; when they finish dinner and are about to pour libations to the gods, with this in your robe, put it in the youth's cup. . . 
     [1035]
-   but keep the cup apart, for him alone, not everyoneóthe one who is going to be the master of my house! And when it has gone down his throat, he will never see glorious Athens, but he will die and remain here.She gives him the bracelet. 
+   but keep the cup apart, for him alone, not everyone‚Äîthe one who is going to be the master of my house! And when it has gone down his throat, he will never see glorious Athens, but he will die and remain here.She gives him the bracelet. 
 
 Tutor
 You go now to your hosts; 
@@ -1759,7 +1759,7 @@ You go now to your hosts;
 Chorus
 Daughter of Demeter, goddess of the cross-ways, you who rule over assaults by night 
     [1050]
-   and day, guide this cup full of death against the one my queen sends it toófrom the 
+   and day, guide this cup full of death against the one my queen sends it to‚Äîfrom the 
     [1055]
    drops of the earth-born Gorgon, her throat cut, to the one who is grasping at the house of Erechtheus. May no other rule the city's households 
     [1060]
@@ -1842,9 +1842,9 @@ Attendant
 Attendant
 When Creusa's husband left the god's oracular shrine, he took his new son to the feast and the sacrifice he was preparing for the god. 
     [1125]
-   Xuthus then went where the flame of Bacchus leaps, so that he might drench both rocks of Dionysos with the slaughter, as a thank-offering for the sight of his son, and he said: ìYou, my child, stay here and raise a tent, fitted on both sides, by the toil of carpenters. 
+   Xuthus then went where the flame of Bacchus leaps, so that he might drench both rocks of Dionysos with the slaughter, as a thank-offering for the sight of his son, and he said: ‚ÄúYou, my child, stay here and raise a tent, fitted on both sides, by the toil of carpenters. 
     [1130]
-   If I should remain a long time in my sacrifice to the gods of birth, set up the banquet for the friends who are there.î
+   If I should remain a long time in my sacrifice to the gods of birth, set up the banquet for the friends who are there.‚Äù
 
  
 
@@ -1868,7 +1868,7 @@ He took the calves and left. The youth reverently built the round tent on pillar
    a dedication from an Athenian. 
 Ion set up golden mixing bowls in the middle of the banquet. The herald, with quick steps, was inviting any native of Delphi who wished to come to the feast. When the tent was filled, they crowned themselves with garlands and ate the rich food 
     [1170]
-   to satiety. When they had let go this pleasureóan old man came by and stood in the midst, and he raised a great laugh among the guests by his zealous actions; for he brought water for washing hands from the pitchers, and burned 
+   to satiety. When they had let go this pleasure‚Äîan old man came by and stood in the midst, and he raised a great laugh among the guests by his zealous actions; for he brought water for washing hands from the pitchers, and burned 
     [1175]
    the myrtle incense, and ruled over the the golden cups, assigning this duty to himself.
 
@@ -1877,15 +1877,15 @@ Ion set up golden mixing bowls in the middle of the banquet. The herald, with qu
 
 
 
-When it was time for music and the public bowl, the old man said: ìwe must take away the small wine vessels and bring in the big ones, 
+When it was time for music and the public bowl, the old man said: ‚Äúwe must take away the small wine vessels and bring in the big ones, 
     [1180]
-   so that they may come to their pleasures more quicklyî Then there was the work of bringing gold and silver cups; he took up a chosen one, as if to do a favor for the new master, and gave him the full cupóhe had put in the wine 
+   so that they may come to their pleasures more quickly‚Äù Then there was the work of bringing gold and silver cups; he took up a chosen one, as if to do a favor for the new master, and gave him the full cup‚Äîhe had put in the wine 
     [1185]
    a deadly poison which they say his mistress had given him, to kill the new son; and no one knew this. When Xuthus' revealed son was holding a libation among the rest, one of the slaves said a profane word; 
     [1190]
    he, as one brought up within the temple and with expert seers, thought it an omen and required another goblet to be filled afresh. The former libations to the god he cast upon the ground, instructing everyone to pour them out. Silence came over us. We were filling 
     [1195]
-   the sacred bowls with water and wine of Byblos. While we were at work, a fluttering troop of doves burst into the tentófor they live in Phoebus' house without fearóand where they had poured out the wine, the birds let down their beaks to it, yearning for the drink, 
+   the sacred bowls with water and wine of Byblos. While we were at work, a fluttering troop of doves burst into the tent‚Äîfor they live in Phoebus' house without fear‚Äîand where they had poured out the wine, the birds let down their beaks to it, yearning for the drink, 
     [1200]
    and they drew it into their beautifully-feathered throats.
 
@@ -1898,11 +1898,11 @@ The god's drink-offering was harmless to the other doves; but the one who sat wh
     [1205]
    an untelligible sound. The whole crowd of guests was amazed at the bird's torment. She struggled and died, stretching out her scarlet legs. The son given by the prophet held his arms, bare from his robe, over the table, 
     [1210]
-   and shouted: ìWho intended to kill me? Let us know, old man; for you were being zealous and I received the cup from your hand.î At once he seized his aged arm, and examined him, so that he might catch the old man in the act with the poison. 
+   and shouted: ‚ÄúWho intended to kill me? Let us know, old man; for you were being zealous and I received the cup from your hand.‚Äù At once he seized his aged arm, and examined him, so that he might catch the old man in the act with the poison. 
     [1215]
    He was seen to have it, and, when tortured, he painfully reported Creusa's daring and the contrivance of the cup. At once, the youth declared by Loxias' oracle collected the guests and rushed outside, and standing in the midst of the Pythian leaders, said: 
     [1220]
-  ìO holy Earth, the stranger, daughter of Erechtheus, tried to kill me with poisonî Then the Delphian lordsóand not by one vote only!ó decided that my mistress should die, by being cast from the rock, as she would have killed one dedicated to the god, and done murder  
+  ‚ÄúO holy Earth, the stranger, daughter of Erechtheus, tried to kill me with poison‚Äù Then the Delphian lords‚Äîand not by one vote only!‚Äî decided that my mistress should die, by being cast from the rock, as she would have killed one dedicated to the god, and done murder  
     [1225]
    in the temple. The whole city is searching for her, as she hastens on her unhappy way. She came to Phoebus in desire for children, and has lost her life and her sons at once.
 
@@ -2092,7 +2092,7 @@ I shall give pain to one who has given me pain.
 Ion
 Ah! It is strange that the god has given to men these laws, not well or with wise thought;  the wicked should not sit at the altar, 
     [1315]
-   but should be driven from there; nor is it good for a worthless hand to touch the gods; for the righteousóthose who have been wronged should sit in sanctuary; the good and bad  should not go to the same place and have equal treatment from the gods.  
+   but should be driven from there; nor is it good for a worthless hand to touch the gods; for the righteous‚Äîthose who have been wronged should sit in sanctuary; the good and bad  should not go to the same place and have equal treatment from the gods.  
 
 
 
@@ -2130,7 +2130,7 @@ Ion
    But we suffer greatly from stepmothers.
 
 Priestess
-Do not do these things; leaving the shrine and going to your countryó
+Do not do these things; leaving the shrine and going to your country‚Äî
 
 Ion
 What must I be advised to do?
@@ -2184,7 +2184,7 @@ Ion
 You kept these things because you were bidden to, or how?
 
 Priestess
-Loxias put it into my mindó
+Loxias put it into my mind‚Äî
 
 Ion
 To do what? Speak, finish what you have to say.
@@ -2253,7 +2253,7 @@ Creusa
    What unexpected sight do I see?
 
 Ion
-You be silent; you know that you have said enough to me beforeó
+You be silent; you know that you have said enough to me before‚Äî
 
 Creusa
 I cannot be silent; do not give me advice. For I see the cradle, in which I once exposed you, my son, when you were still an infant, 
@@ -2368,7 +2368,7 @@ O my dearest mother! I see you with joy, I am held to your joyful face.They embr
 Creusa
 O child, o light dearer to your mother than the sun 
     [1440]
-  óthe god will forgive meóI hold you in my arms, unexpectedly found, when I thought you lived in the world below, with the dead and Persephone.
+  ‚Äîthe god will forgive me‚ÄîI hold you in my arms, unexpectedly found, when I thought you lived in the world below, with the dead and Persephone.
 
 Ion
 But, my dear mother, in your arms I seem to be both one who has died and one who is not dead.
@@ -2439,20 +2439,20 @@ Ion
 Alas! I am low-born. Mother, who was my father?
 
 Creusa
-May the Gorgon's slayer knowó
+May the Gorgon's slayer know‚Äî
 
 Ion
 Why have you said this?
 Creusa
 You, who sit on the hill 
     [1480]
-   where the olive grows, beside my cliffsó
+   where the olive grows, beside my cliffs‚Äî
 
 Ion
 What you say is treacherous and not clear to me.
 
 Creusa
-By the nightingale's rock, Apolloó
+By the nightingale's rock, Apollo‚Äî
 
 Ion
  Why do you speak of Apollo?
@@ -2507,7 +2507,7 @@ O Fortune, you that have already changed the lives of countless mortals, involvi
     [1515]
    ready to kill my mother and suffer unworthily. Ah! Is it possible to learn all this day by day, in the sun's bright encircling rays? I have made a dear find in you, mother; nor do I see anything to blame in my birth; 
     [1520]
-   For the rest, I want to talk to you alone. Come here; for I wish to say this in your ear and draw a dark veil over the matter. Look, mother; isn't it true that  you went astray into a secret affairóan affliction that happens to girls; 
+   For the rest, I want to talk to you alone. Come here; for I wish to say this in your ear and draw a dark veil over the matter. Look, mother; isn't it true that  you went astray into a secret affair‚Äîan affliction that happens to girls; 
     [1525]
    and now you are ascribe the blame to the god and attempt to escape the shame of my birth by saying that you bore me to Phoebus, when your lover was not a god?
 
@@ -2525,7 +2525,7 @@ Not born, but he gives you,
    born from himself; for so a friend might give to a friend his son to be master of the house.
 
 Ion
-The god is true, or prophecy is in vainóthis troubles my heart, mother, and with reason.
+The god is true, or prophecy is in vain‚Äîthis troubles my heart, mother, and with reason.
 
 Creusa
 Hear now what has come to me, my child: 
@@ -2539,7 +2539,7 @@ Ion
 Athena appears from above.
 Ah! what god is revealing a countenance as bright as the sun, 
     [1550]
-   above the house that breathes incense? Let us try to escape, mother, before we see divinitiesóif it is not the proper time for us to see them.  
+   above the house that breathes incense? Let us try to escape, mother, before we see divinities‚Äîif it is not the proper time for us to see them.  
 
 
 
@@ -2584,7 +2584,7 @@ Creusa, take your son and go to the land of Cecrops; set him on the royal throne
 
 
 Ion
-O Pallas, daughter of all-powerful Zeus! not with distrust shall we receive your words; I am convinced that Phoebus is my father and she is my mother.óand that I did not doubt before.
+O Pallas, daughter of all-powerful Zeus! not with distrust shall we receive your words; I am convinced that Phoebus is my father and she is my mother.‚Äîand that I did not doubt before.
 
 Creusa
 Hear now my words also; I praise Phoebus, whom I did not praise before; 

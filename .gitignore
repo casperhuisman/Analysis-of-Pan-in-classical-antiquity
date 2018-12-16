@@ -59,3 +59,5 @@ target/
 
 Pipfile
 Pipfile.lock
+
+.vscode
